@@ -26,5 +26,3 @@ export PREFIX=/usr
 
 override_dh_auto_configure:
 	./autogen.sh --prefix=/usr
-	
-

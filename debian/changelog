@@ -1,3 +1,9 @@
+libi3ipc-glib (1.0.1-1) unstable; urgency=low
+
+  * Bump to version 1.0.1
+
+ -- Salah Eddine Ghamri <salaheddine.ghamri@yahoo.com>  Mon, 30 Oct 2023 17:46:39 +0100
+
 libi3ipc-glib (0.6.0-1) unstable; urgency=low
 
   * Bump to version 0.6.0
